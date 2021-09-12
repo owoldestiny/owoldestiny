@@ -1,4 +1,6 @@
-### Hi there 👋
+<p><img width="100%" src="Banner.png"></p>
+<h2 align="center"><font size="10">Hello guys</font><img width="8" src="dev.gif"></h2>
+<p align="center" width="300">Hi there, My name is Owolabi Destiny. An experienced website designer and website developer. I specialize in UI/UX Design, Responsive Web development.</p>
 
 **owoldestiny/owoldestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p><img width="100%" src="Banner.png"></p>
-<h2 align="center"><font size="10">Hello guys</font><img width="40" src="dev.gif"></h2>
-<p align="center" width="300">Hi there, My name is Owolabi Destiny. An experienced website designer and website developer. I specialize in UI/UX Design, Responsive Web development.</p>
 <!--
 <p><img width="100%" src="Banner.png"></p>
 <h2 align="center"><font size="10">Hello guys</font><img width="40" src="dev.gif"></h2>
