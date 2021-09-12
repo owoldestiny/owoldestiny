@@ -1,5 +1,7 @@
 <p><img width="100%" src="Banner.png"></p>
-<h2><font size="10">Hello guys</font></h2><img vAlign="bottom" width="40" src="dev.gif">
+<br>
+
+<p float="left"><a href="https://youtu.be/gDXaamxs32w" target="_blank"><img vAlign="bottom" width="100" src="Hello friends.png"></a> <a href="https://buymeacoffee.com/owoldestiny" target="_blank"> <img vAlign="bottom" width="60" src="dev.gif"></a></p>
 <p width="300">Hi there, My name is Owolabi Destiny. An experienced website designer and website developer. I specialize in UI/UX Design, Responsive Web development.</p>
 
 **owoldestiny/owoldestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
